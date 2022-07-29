@@ -41,7 +41,6 @@
             <objectStoreV2>true</objectStoreV2>
         </cloudHubDeployment>
         
-        
     </configuration>
 			</plugin>
 		</plugins>
@@ -76,7 +75,6 @@
 			<layout>default</layout>
 		</repository>
 	</repositories>
-
 	<pluginRepositories>
 		<pluginRepository>
 			<id>mulesoft-releases</id>
