@@ -35,7 +35,7 @@
             <muleVersion>4.4.0</muleVersion>
             <username>doddumule2020</username>
             <password>Doddu@2020</password>
-            <applicationName>mulesoft-cicd-sample</applicationName>
+            <applicationName>mulesoft-cicd-sample-Deploy</applicationName>
             <environment>Sandbox</environment>
             <workerType>MICRO</workerType>
             <objectStoreV2>true</objectStoreV2>
