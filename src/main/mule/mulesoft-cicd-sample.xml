@@ -12,6 +12,8 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 		<http:listener doc:name="GETSample" doc:id="a2e8f755-681e-4970-a165-a17fccc4c192" config-ref="HTTP_Listener_config" path="/sample"/>
 		<ee:transform doc:name="Transform Message" doc:id="c4f98b5d-54d1-4e0a-a49e-3ac2834f403a" >
 			<ee:message >
+			
+			
 				<ee:set-payload ><![CDATA[%dw 2.0
 output application/json
 ---
